@@ -32,9 +32,6 @@ error_reporting(E_ALL);
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-
-		<!-- My stylesheet -->
-		<link rel="stylesheet" href="includes/portfolio.css" />
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
@@ -126,7 +123,15 @@ error_reporting(E_ALL);
 			</section> <!-- End Main -->
 
 			<!-- Page Footer -->
-			<?php @include('includes/portfolio-footer.html'); ?> <!-- End Footer -->
+			<footer id="footer">
+				<ul class="icons">
+					<li><a href="https://www.linkedin.com/in/alexaballwebdev" target="_blank" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+					<li><a href="https://github.com/AlexABallWebDev" target="_blank" class="icon fa-github"><span class="label">Github</span></a></li>
+				</ul>
+				<ul class="copyright">
+					<li>&copy; Alex Ball. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+				</ul>
+			</footer> <!-- End Footer -->
 
 		</div>
 
