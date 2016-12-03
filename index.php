@@ -92,31 +92,35 @@ error_reporting(E_ALL);
 						<h2>My Recent Projects</h2>
 						<hr />
 					</header>
-					<div class="features-row">
-						<section id="esol-word-card-website">
-							<a href="http://anarchy.greenrivertech.net" target="_blank">
-								<img src="images/ESOL_word_card_homepage_one-third.jpg" alt="ESOL word card website"/>
-							</a>
-							<h3>Green River College ESOL Word Card Website</h3>
-							<p>Under construction by team Organized Anarchy, this website is intended to provide ESOL
-									students with a resource for making flash cards online. This responsive website will even
-									work on mobile devices so that you can practice with your flash cards anywhere that you have
-									an internet connection.
-							</p>
-						</section>
+					<div class="row">
+						<div class="6u 12u(narrower)">
+							<section id="esol-word-card-website" class="box special">
+								<span class="image featured"><a href="http://anarchy.greenrivertech.net" target="_blank">
+									<img src="images/esol_word_card_homepage.png" alt="ESOL word card website"/>
+								</a></span>
+								<h3>Green River College ESOL Word Card Website</h3>
+								<p>Under construction by team Organized Anarchy, this website is intended to provide ESOL
+										students with a resource for making flash cards online. This responsive website will even
+										work on mobile devices so that you can practice with your flash cards anywhere that you have
+										an internet connection.
+								</p>
+							</section>
+						</div>
 
-            <section id="password-reset-portal-website">
-							<a href="http://portal.greenrivertech.net" target="_blank">
-								<img src="images/password_reset_portal_portfolio_formatted.png" alt="Password Reset Portal website"/>
-							</a>
-							<h3>GRC Tech Domain Password Reset Portal</h3>
-							<p>This project by team Organized Anarchy will allow GRC students to reset their
-                Active Directory password so they can log onto GRC Tech domain computers without
-                having to contact an instructor. This project involved work with Active Directory,
-                SSH between Redhat Enterprise (Linux) and Windows Server 2012 VMs, and a
-                front-end interface for students to interact with.
-							</p>
-						</section>
+						<div class="6u 12u(narrower)">
+	            <section id="password-reset-portal-website" class="box special">
+								<span class="image featured"><a href="http://portal.greenrivertech.net" target="_blank">
+									<img src="images/password_reset_portal.png" alt="Password Reset Portal website"/>
+								</a></span>
+								<h3>GRC Tech Domain Password Reset Portal</h3>
+								<p>This project by team Organized Anarchy will allow GRC students to reset their
+	                Active Directory password so they can log onto GRC Tech domain computers without
+	                having to contact an instructor. This project involved work with Active Directory,
+	                SSH between Redhat Enterprise (Linux) and Windows Server 2012 VMs, and a
+	                front-end interface for students to interact with.
+								</p>
+							</section>
+						</div>
 					</div>
 				</section> <!-- End Recent Projects -->
 
