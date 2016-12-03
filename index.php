@@ -51,6 +51,7 @@ error_reporting(E_ALL);
 				<ul class="actions">
 					<li><a href="#recent-projects" class="button">Projects</a></li>
 					<li><a href="https://www.linkedin.com/in/alexaballwebdev" class="button">Linkedin</a></li>
+					<li><a href="https://github.com/AlexABallWebDev" class="button">GitHub</a></li>
 				</ul>
 			</section> <!-- End Banner -->
 
@@ -61,8 +62,16 @@ error_reporting(E_ALL);
 				<section class="box special">
 					<header class="major">
 						<h2>Introduction</h2>
-						<p>Hello, I am Alex Ball. I am studying to get my BAS in Software Development
-						<br />at Green River College.</p>
+						<p>
+							I am Alex Ball, and I make programs work. My strengths include
+							building back-end functionality and databases. I have worked
+							on several projects that are now in use, primarily websites and
+							forms, but also a Unity game. My experience with Agile and pair
+							programming will help me as I work on many different projects and
+							collaborate with other teams. I seek to become a senior developer
+							and improve everything I work on. I would love an opportunity to
+							send you my resume.
+						</p>
 					</header>
 				</section> <!-- End Introduction -->
 
