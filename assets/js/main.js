@@ -43,7 +43,7 @@
 			// Navigation Button.
 				$(
 					'<div id="navButton">' +
-						'<a href="#navPanel" class="toggle"></a>' +
+						'<a href="#navPanel" class="toggle">Open</a>' +
 					'</div>'
 				)
 					.appendTo($body);

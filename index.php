@@ -42,6 +42,20 @@ error_reporting(E_ALL);
 			<!-- Page Header -->
 			<header id="header" class="alt">
 				<h1><a href="index.php">Alex Ball's Portfolio</a></h1>
+				<nav id="nav">
+					<ul>
+						<li>
+							<a href="#">Home</a>
+						</li>
+						<li>
+							<a href="#recent-projects" class="icon fa-angle-down">Projects</a>
+							<ul>
+								<li><a href="#esol-word-card-website">ESOL Word Card</a></li>
+								<li><a href="#password-reset-portal-website">Password Reset Portal</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
 			</header> <!-- End Header -->
 
 			<!-- Banner -->
@@ -82,11 +96,11 @@ error_reporting(E_ALL);
 						<hr />
 					</header>
 					<div class="features-row">
-						<section>
+						<section id="esol-word-card-website">
 							<a href="http://anarchy.greenrivertech.net" target="_blank">
 								<img src="images/ESOL_word_card_homepage_one-third.jpg" alt="ESOL word card website"/>
 							</a>
-							<h3>Green River College ESOL word card website</h3>
+							<h3>Green River College ESOL Word Card Website</h3>
 							<p>Under construction by team Organized Anarchy, this website is intended to provide ESOL
 									students with a resource for making flash cards online. This responsive website will even
 									work on mobile devices so that you can practice with your flash cards anywhere that you have
@@ -94,7 +108,7 @@ error_reporting(E_ALL);
 							</p>
 						</section>
 
-            <section>
+            <section id="password-reset-portal-website">
 							<a href="http://portal.greenrivertech.net" target="_blank">
 								<img src="images/password_reset_portal_portfolio_formatted.png" alt="Password Reset Portal website"/>
 							</a>
