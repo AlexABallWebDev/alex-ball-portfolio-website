@@ -17,14 +17,14 @@ error_reporting(E_ALL);
 	Author: Alex Ball
 	This website is meant to represent my project portfolio.
 	This page acts as a hub to link to my projects and other information.
-	
+
 	template attribution:
 		Alpha by HTML5 UP
 		html5up.net | @n33co
 		Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 	end attribution
 -->
-<html>
+<html lang="en">
 	<head>
 		<title>Alex Ball's Portfolio - Homepage</title>
 		<meta charset="utf-8" />
@@ -32,7 +32,7 @@ error_reporting(E_ALL);
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-		
+
 		<!-- My stylesheet -->
 		<link rel="stylesheet" href="includes/portfolio.css" />
 	</head>
@@ -41,7 +41,7 @@ error_reporting(E_ALL);
 
 			<!-- Page Header -->
 			<header id="header" class="alt">
-				<?php @include('includes/portfolio-header.html'); ?>
+				<h1><a href="index.php">Alex Ball's Portfolio</a></h1>
 			</header> <!-- End Header -->
 
 			<!-- Banner -->
@@ -50,13 +50,13 @@ error_reporting(E_ALL);
 				<p>Software Developer and Green River College student</p>
 				<ul class="actions">
 					<li><a href="#recent-projects" class="button">Projects</a></li>
-					<li><a href="resume.php" class="button">Resume</a></li>
+					<li><a href="https://www.linkedin.com/in/alexaballwebdev" class="button">Linkedin</a></li>
 				</ul>
 			</section> <!-- End Banner -->
 
 			<!-- Main -->
 			<section id="main" class="container">
-				
+
 				<!-- Introduction -->
 				<section class="box special">
 					<header class="major">
@@ -82,6 +82,19 @@ error_reporting(E_ALL);
 									students with a resource for making flash cards online. This responsive website will even
 									work on mobile devices so that you can practice with your flash cards anywhere that you have
 									an internet connection.
+							</p>
+						</section>
+
+            <section>
+							<a href="http://portal.greenrivertech.net" target="_blank">
+								<img src="images/password_reset_portal_portfolio_formatted.png" alt="Password Reset Portal website"/>
+							</a>
+							<h3>GRC Tech Domain Password Reset Portal</h3>
+							<p>This project by team Organized Anarchy will allow GRC students to reset their
+                Active Directory password so they can log onto GRC Tech domain computers without
+                having to contact an instructor. This project involved work with Active Directory,
+                SSH between Redhat Enterprise (Linux) and Windows Server 2012 VMs, and a
+                front-end interface for students to interact with.
 							</p>
 						</section>
 					</div>
