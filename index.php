@@ -49,6 +49,8 @@ error_reporting(E_ALL);
 							<ul>
 								<li><a href="#esol-word-card-website">ESOL Word Card</a></li>
 								<li><a href="#password-reset-portal-website">Password Reset Portal</a></li>
+								<li><a href="#swift-quiz-app">Swift Quiz App</a></li>
+								<li><a href="#galaxia-unity-game">Galaxia Unity Game</a></li>
 							</ul>
 						</li>
 					</ul>
@@ -100,10 +102,11 @@ error_reporting(E_ALL);
 								<img src="images/esol_word_card_homepage.png" alt="ESOL word card website"/>
 							</a></span>
 							<h3>Green River College ESOL Word Card Website</h3>
-							<p>Under construction by team Organized Anarchy, this website is intended to provide ESOL
-									students with a resource for making flash cards online. This responsive website will even
-									work on mobile devices so that you can practice with your flash cards anywhere that you have
-									an internet connection.
+							<p>
+								Under construction by team Organized Anarchy, this website is intended to provide ESOL
+								students with a resource for making flash cards online. This responsive website will even
+								work on mobile devices so that you can practice with your flash cards anywhere that you have
+								an internet connection.
 							</p>
 						</section>
 					</div>
@@ -114,7 +117,8 @@ error_reporting(E_ALL);
 								<img src="images/password_reset_portal.png" alt="Password Reset Portal website"/>
 							</a></span>
 							<h3>GRC Tech Domain Password Reset Portal</h3>
-							<p>This project by team Organized Anarchy will allow GRC students to reset their
+							<p>
+								This project by team Organized Anarchy will allow GRC students to reset their
                 Active Directory password so they can log onto GRC Tech domain computers without
                 having to contact an instructor. This project involved work with Active Directory,
                 SSH between Redhat Enterprise (Linux) and Windows Server 2012 VMs, and a
@@ -124,6 +128,40 @@ error_reporting(E_ALL);
 					</div>
 				</div>
 
+				<div class="row">
+					<div class="6u 12u(narrower)">
+						<section id="swift-quiz-app" class="box special">
+							<span class="image featured"><a href="https://github.com/AlexABallWebDev/swift_quiz_game" target="_blank">
+								<img src="images/swift_quiz_app.png" alt="Swift Quiz App"/>
+							</a></span>
+							<h3>Swift Quiz App</h3>
+							<p>
+								In Spring 2016 I developed a small quiz app to gain experience
+								developing on Mac computers. I worked using XCode to create a
+								game in which you are asked 3 randomly selected questions, after
+								which you are shown your score.
+							</p>
+						</section>
+					</div>
+
+					<div class="6u 12u(narrower)">
+						<section id="galaxia-game" class="box special">
+							<span class="image featured"><a href="http://bit.ly/1ZrUIuh" target="_blank">
+								<img src="images/galaxia_remastered.png" alt="Galaxia Remastered Unity Game"/>
+							</a></span>
+							<h3>Galaxia Remastered Unity Game</h3>
+							<p>
+								Galaxia Remastered is a sequel to a game by Typhon Pacific
+								Studios. It was developed using Unity in C# and was intended
+								to expand upon the original game by allowing customizable
+								ship parts. Over Spring quarter in 2016 we completed one level
+								with two ships, but due to time constraints the customization
+								features were left unfinished. The game can be downloaded by
+								clicking the image above.
+							</p>
+						</section>
+					</div>
+				</div>
 			</section> <!-- End Main -->
 
 			<!-- Page Footer -->
