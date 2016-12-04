@@ -93,7 +93,7 @@ error_reporting(E_ALL);
 					<header class="major">
 						<h2>My Projects</h2>
 					</header>
-				</section> <!-- End Recent Projects -->
+				</section>
 
 				<div class="row">
 					<div class="6u 12u(narrower)">
@@ -161,7 +161,7 @@ error_reporting(E_ALL);
 							</p>
 						</section>
 					</div>
-				</div>
+				</div> <!-- End Recent Projects -->
 			</section> <!-- End Main -->
 
 			<!-- Page Footer -->
