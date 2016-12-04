@@ -91,26 +91,11 @@ error_reporting(E_ALL);
 				<!-- Recent Projects -->
 				<section id="recent-projects" class="box special">
 					<header class="major">
-						<h2>My Recent Projects</h2>
+						<h2>My Projects</h2>
 					</header>
 				</section> <!-- End Recent Projects -->
 
 				<div class="row">
-					<div class="6u 12u(narrower)">
-						<section id="esol-word-card-website" class="box special">
-							<span class="image featured"><a href="http://anarchy.greenrivertech.net" target="_blank">
-								<img src="images/esol_word_card_homepage.png" alt="ESOL word card website"/>
-							</a></span>
-							<h3>Green River College ESOL Word Card Website</h3>
-							<p>
-								Under construction by team Organized Anarchy, this website is intended to provide ESOL
-								students with a resource for making flash cards online. This responsive website will even
-								work on mobile devices so that you can practice with your flash cards anywhere that you have
-								an internet connection.
-							</p>
-						</section>
-					</div>
-
 					<div class="6u 12u(narrower)">
             <section id="password-reset-portal-website" class="box special">
 							<span class="image featured"><a href="http://portal.greenrivertech.net" target="_blank">
@@ -126,9 +111,7 @@ error_reporting(E_ALL);
 							</p>
 						</section>
 					</div>
-				</div>
 
-				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="swift-quiz-app" class="box special">
 							<span class="image featured"><a href="https://github.com/AlexABallWebDev/swift_quiz_game" target="_blank">
@@ -143,7 +126,9 @@ error_reporting(E_ALL);
 							</p>
 						</section>
 					</div>
+				</div>
 
+				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="galaxia-game" class="box special">
 							<span class="image featured"><a href="http://bit.ly/1ZrUIuh" target="_blank">
@@ -158,6 +143,21 @@ error_reporting(E_ALL);
 								with two ships, but due to time constraints the customization
 								features were left unfinished. The game can be downloaded by
 								clicking the image above.
+							</p>
+						</section>
+					</div>
+
+					<div class="6u 12u(narrower)">
+						<section id="esol-word-card-website" class="box special">
+							<span class="image featured"><a href="http://anarchy.greenrivertech.net" target="_blank">
+								<img src="images/esol_word_card_homepage.png" alt="ESOL word card website"/>
+							</a></span>
+							<h3>Green River College ESOL Word Card Website</h3>
+							<p>
+								Under construction by team Organized Anarchy, this website is intended to provide ESOL
+								students with a resource for making flash cards online. This responsive website will even
+								work on mobile devices so that you can practice with your flash cards anywhere that you have
+								an internet connection.
 							</p>
 						</section>
 					</div>
