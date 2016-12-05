@@ -101,6 +101,13 @@
                 SSH between Redhat Enterprise (Linux) and Windows Server 2012 VMs, and a
                 front-end interface for students to interact with.
 							</p>
+							<ul class="actions">
+								<li>
+									<a href="http://portal.greenrivertech.net"
+												target="_blank"
+												class="button alt">The Website</a>
+								</li>
+							</ul>
 						</section>
 					</div>
 
@@ -116,6 +123,13 @@
 								game in which you are asked 3 randomly selected questions, after
 								which you are shown your score.
 							</p>
+							<ul class="actions">
+								<li>
+									<a href="https://github.com/AlexABallWebDev/swift_quiz_game"
+												target="_blank"
+												class="button alt">GitHub Repository</a>
+								</li>
+							</ul>
 						</section>
 					</div>
 				</div>
@@ -133,9 +147,16 @@
 								to expand upon the original game by allowing customizable
 								ship parts. Over Spring quarter in 2016 we completed one level
 								with two ships, but due to time constraints the customization
-								features were left unfinished. The game can be downloaded by
-								clicking the image above.
+								features were left unfinished. The game can be downloaded from
+								a public Google Drive folder by clicking the link below.
 							</p>
+							<ul class="actions">
+								<li>
+									<a href="http://bit.ly/1ZrUIuh"
+												target="_blank"
+												class="button alt">Game Download</a>
+								</li>
+							</ul>
 						</section>
 					</div>
 
@@ -171,6 +192,13 @@
 								to a datbase. The student	responses can be downloaded in CSV
 								form from the secure administrator page to be exported elsewhere.
 							</p>
+							<ul class="actions">
+								<li>
+									<a href="http://alexb.greenrivertech.net/305/final-project/public_html/"
+												target="_blank"
+												class="button alt">The Website</a>
+								</li>
+							</ul>
 						</section>
 					</div>
 
@@ -186,6 +214,13 @@
 								work on mobile devices so that you can practice with your flash cards anywhere that you have
 								an internet connection.
 							</p>
+							<ul class="actions">
+								<li>
+									<a href="http://anarchy.greenrivertech.net"
+												target="_blank"
+												class="button alt">The Website</a>
+								</li>
+							</ul>
 						</section>
 					</div>
 				</div> <!-- End Recent Projects -->
