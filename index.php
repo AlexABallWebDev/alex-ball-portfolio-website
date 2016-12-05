@@ -209,7 +209,7 @@
 							</a></span>
 							<h3>Green River College ESOL Word Card Website</h3>
 							<p>
-								Under construction by team Organized Anarchy, this website is intended to provide ESOL
+								Built by team Organized Anarchy, this website is intended to provide ESOL
 								students with a resource for making flash cards online. This responsive website will even
 								work on mobile devices so that you can practice with your flash cards anywhere that you have
 								an internet connection.
