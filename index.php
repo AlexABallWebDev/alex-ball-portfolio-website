@@ -140,6 +140,41 @@
 					</div>
 
 					<div class="6u 12u(narrower)">
+						<section id="meteor-uno" class="box special">
+							<span class="image featured">
+								<img src="images/meteor_uno.png" alt="Meteor UNO"/>
+							</span>
+							<h3>Meteor UNO Website</h3>
+							<p>
+								This project involved working with a MEAN stack framework,
+								Meteor.js. The website allowed two users to play the card game
+								UNO in a browser without any page refreshing required. It worked
+								using a drag-and-drop system and MongoDB to manipulate cards.
+								The game required 2 players to play.
+							</p>
+						</section>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="6u 12u(narrower)">
+						<section id="wise-instake-form" class="box special">
+							<span class="image featured"><a href="http://alexb.greenrivertech.net/305/final-project/public_html/" target="_blank">
+								<img src="images/wise_intake_form.png" alt="WISE Intake Form"/>
+							</a></span>
+							<h3>WISE Intake Form</h3>
+							<p>
+								This website was created for Washington Integrated Sector
+								Employment (WISE). WISE uses this website for student applications
+								and to view student responses via an administrator view. This
+								multipage form allows students to submit application information
+								to a datbase. The student	responses can be downloaded in CSV
+								form from the secure administrator page to be exported elsewhere.
+							</p>
+						</section>
+					</div>
+
+					<div class="6u 12u(narrower)">
 						<section id="esol-word-card-website" class="box special">
 							<span class="image featured"><a href="http://anarchy.greenrivertech.net" target="_blank">
 								<img src="images/esol_word_card_homepage.png" alt="ESOL word card website"/>
