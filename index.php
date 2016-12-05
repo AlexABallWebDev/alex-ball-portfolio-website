@@ -1,15 +1,7 @@
 <?php
 /*Author: Alex Ball
- *This is the portfolio homepage.
- *
- *This page is dependant on:
- *portfolio-header-home.html
- *portfolio-footer.html
+ *This is my portfolio homepage.
  */
-
-//This part enables errors.
-ini_set(‘display_errors’, 1);
-error_reporting(E_ALL);
 ?>
 
 <!DOCTYPE HTML>
