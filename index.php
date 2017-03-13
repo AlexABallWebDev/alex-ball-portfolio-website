@@ -111,6 +111,8 @@
 						</section>
 					</div>
 
+
+        <div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="swift-quiz-app" class="box special">
 							<span class="image featured"><a href="https://github.com/AlexABallWebDev/swift_quiz_game" target="_blank">
@@ -132,9 +134,7 @@
 							</ul>
 						</section>
 					</div>
-				</div>
 
-				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="galaxia-game" class="box special">
 							<span class="image featured"><a href="http://bit.ly/1ZrUIuh" target="_blank">
@@ -159,7 +159,9 @@
 							</ul>
 						</section>
 					</div>
+				</div>
 
+				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="meteor-uno" class="box special">
 							<span class="image featured">
@@ -175,9 +177,7 @@
 							</p>
 						</section>
 					</div>
-				</div>
 
-				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="wise-instake-form" class="box special">
 							<span class="image featured"><a href="http://alexb.greenrivertech.net/305/final-project/public_html/" target="_blank">
@@ -201,7 +201,9 @@
 							</ul>
 						</section>
 					</div>
+				</div>
 
+				<div class="row">
 					<div class="6u 12u(narrower)">
 						<section id="esol-word-card-website" class="box special">
 							<span class="image featured"><a href="http://anarchy.greenrivertech.net" target="_blank">
