@@ -110,6 +110,7 @@
 							</ul>
 						</section>
 					</div>
+				</div>
 
 
         <div class="row">
